@@ -25,7 +25,7 @@ export default function Home() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1 }}
             >
-              Welcome to GTA Universe
+              Welcome to Srikanth GTA Universe
             </motion.h1>
           </div>
         </section>
